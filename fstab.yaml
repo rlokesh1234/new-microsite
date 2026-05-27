@@ -1,5 +1,4 @@
 mountpoints:
   /:
-    url: "https://author-p153710-e1614654.adobeaemcloud.com/bin/franklin.delivery/rlokesh1234/new-microsite/main"
-    type: "markup"
-    suffix: ".html"
+    url: https://github.com/rlokesh1234/new-microsite/tree/main
+    type: markup
